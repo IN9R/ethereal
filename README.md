@@ -1,2 +1,0 @@
-# ethereal
-Ethereal.gg website
